@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NVyrsta/mariia_tsintsadze/static/css/main.9885c760.css",
-    "main.js": "/NVyrsta/mariia_tsintsadze/static/js/main.7b556d06.js",
-    "static/media/hero.png": "/NVyrsta/mariia_tsintsadze/static/media/hero.d51876a4fe2aa8f98bd9.png",
-    "static/media/about.png": "/NVyrsta/mariia_tsintsadze/static/media/about.e14cda59112462328a26.png",
-    "index.html": "/NVyrsta/mariia_tsintsadze/index.html",
-    "static/media/arrow-back.svg": "/NVyrsta/mariia_tsintsadze/static/media/arrow-back.165e3230be7400ff5b4068940b531c86.svg",
-    "main.9885c760.css.map": "/NVyrsta/mariia_tsintsadze/static/css/main.9885c760.css.map",
-    "main.7b556d06.js.map": "/NVyrsta/mariia_tsintsadze/static/js/main.7b556d06.js.map"
+    "main.css": "/static/css/main.9885c760.css",
+    "main.js": "/static/js/main.a65487a0.js",
+    "static/media/hero.png": "/static/media/hero.d51876a4fe2aa8f98bd9.png",
+    "static/media/about.png": "/static/media/about.e14cda59112462328a26.png",
+    "index.html": "/index.html",
+    "static/media/arrow-back.svg": "/static/media/arrow-back.165e3230be7400ff5b4068940b531c86.svg",
+    "main.9885c760.css.map": "/static/css/main.9885c760.css.map",
+    "main.a65487a0.js.map": "/static/js/main.a65487a0.js.map"
   },
   "entrypoints": [
     "static/css/main.9885c760.css",
-    "static/js/main.7b556d06.js"
+    "static/js/main.a65487a0.js"
   ]
 }
