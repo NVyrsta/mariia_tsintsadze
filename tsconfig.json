@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "ESNext",
+    "jsx": "react",
+    "esModuleInterop": true,
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node"
+  },
+    "exclude": [
+    "node_modules",
+    "build",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/index.js"
+  }
+}
