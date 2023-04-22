@@ -2,7 +2,6 @@ import React from 'react';
 import {
   BrowserRouter as Router,
   Route,
-  NavLink,
   Routes
 } from 'react-router-dom';
 import './App.css';
@@ -18,8 +17,6 @@ function App() {
     <div className="wrapper">
       <Router>
         <div>
-
-
           <Routes>
             <Route path="/" element={<Main />} />
             <Route path="/about" element={<About />} />
