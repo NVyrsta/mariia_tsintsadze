@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mariia_tsintsadze/static/css/main.9885c760.css",
-    "main.js": "/mariia_tsintsadze/static/js/main.3efee93c.js",
-    "static/media/hero.png": "/mariia_tsintsadze/static/media/hero.d51876a4fe2aa8f98bd9.png",
-    "static/media/about.png": "/mariia_tsintsadze/static/media/about.e14cda59112462328a26.png",
-    "index.html": "/mariia_tsintsadze/index.html",
-    "static/media/arrow-back.svg": "/mariia_tsintsadze/static/media/arrow-back.165e3230be7400ff5b4068940b531c86.svg",
-    "main.9885c760.css.map": "/mariia_tsintsadze/static/css/main.9885c760.css.map",
-    "main.3efee93c.js.map": "/mariia_tsintsadze/static/js/main.3efee93c.js.map"
+    "main.css": "/static/css/main.9885c760.css",
+    "main.js": "/static/js/main.b6a36582.js",
+    "static/media/hero.png": "/static/media/hero.d51876a4fe2aa8f98bd9.png",
+    "static/media/about.png": "/static/media/about.e14cda59112462328a26.png",
+    "index.html": "/index.html",
+    "static/media/arrow-back.svg": "/static/media/arrow-back.165e3230be7400ff5b4068940b531c86.svg",
+    "main.9885c760.css.map": "/static/css/main.9885c760.css.map",
+    "main.b6a36582.js.map": "/static/js/main.b6a36582.js.map"
   },
   "entrypoints": [
     "static/css/main.9885c760.css",
-    "static/js/main.3efee93c.js"
+    "static/js/main.b6a36582.js"
   ]
 }
